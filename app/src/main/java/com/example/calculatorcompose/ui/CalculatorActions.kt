@@ -1,4 +1,4 @@
-package com.example.calculatorcompose.ui.theme.ui
+package com.example.calculatorcompose.ui
 
 sealed class CalculatorAction {
     data class Number(val number: Int): CalculatorAction()

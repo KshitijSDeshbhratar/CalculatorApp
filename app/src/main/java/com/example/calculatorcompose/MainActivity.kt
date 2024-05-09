@@ -8,8 +8,8 @@ import androidx.compose.ui.ExperimentalComposeUiApi
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.calculatorcompose.ui.theme.CalculatorComposeTheme
-import com.example.calculatorcompose.ui.theme.ui.Calculator
-import com.example.calculatorcompose.ui.theme.ui.CalculatorViewModel
+import com.example.calculatorcompose.ui.Calculator
+import com.example.calculatorcompose.ui.CalculatorViewModel
 
 @ExperimentalComposeUiApi
 class MainActivity : ComponentActivity() {

@@ -1,4 +1,4 @@
-package com.example.calculatorcompose.ui.theme.ui
+package com.example.calculatorcompose.ui
 
 import CalculatorButton
 import androidx.compose.foundation.background

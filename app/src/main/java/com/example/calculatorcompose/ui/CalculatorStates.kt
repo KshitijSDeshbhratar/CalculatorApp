@@ -1,4 +1,4 @@
-package com.example.calculatorcompose.ui.theme.ui
+package com.example.calculatorcompose.ui
 
 data class CalculatorState(
     val number1: String = "",
