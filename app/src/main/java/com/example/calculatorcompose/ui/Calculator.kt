@@ -15,6 +15,7 @@ import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.calculatorcompose.ui.theme.LightGrey
+import com.example.calculatorcompose.ui.theme.MediumGrey
 import com.example.calculatorcompose.ui.theme.Orange
 
 @OptIn(ExperimentalComposeUiApi::class)
@@ -28,7 +29,7 @@ fun Calculator(
     Box(
         modifier = modifier
             .fillMaxSize()
-            .background(Color.DarkGray)
+            .background(Color.Black)
             .padding(16.dp)
     ) {
         Column(
